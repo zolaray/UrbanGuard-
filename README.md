@@ -33,12 +33,6 @@ PyTorch & PyTorch Geometric
 
 OpenAI API Key (for Agentic Reasoning)
 
-Installation
-Bash
-
-git clone https://github.com/zolaray/UrbanGuard.git
-cd UrbanGuard-XAI
-pip install -r requirements.txt
 
 📂 Repository Structure
 
